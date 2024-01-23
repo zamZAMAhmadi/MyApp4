@@ -11,6 +11,7 @@
         android:layout_height="59dp"
         android:layout_marginLeft="116dp"
         android:layout_marginTop="396dp"
+        android:id="@+id/startButton"
         android:background="@android:color/transparent"
         android:text="@string/StartMessage"
         android:textSize="30dp"
